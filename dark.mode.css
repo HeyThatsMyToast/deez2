@@ -1,5 +1,5 @@
 /****GOOGLE/BD FONTS****/
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 @import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
@@ -157,7 +157,7 @@
   display: none !important;
 }
 .theme-dark .wordmark-2u86JB::before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ h e l l o  t o a s t";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -172,7 +172,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ h e l l o  t o a s t";
   letter-spacing: 2px;
 }
 /* button design*/
@@ -229,7 +229,7 @@
 .theme-dark .placeholder-1rCBhr::before {
   content: "Life is so much easier when you just take a time to chill";
   color: rgba(255, 255, 255, 0.2);
-  font-family: "Poppins";
+  font-family: "Montserrat";
   font-size: 13px;
   visibility: visible !important;
 }
